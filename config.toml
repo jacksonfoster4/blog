@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://journal.jacksonfoster.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Journal"
 theme = "smol"
+[taxonomies]
+    book = "books"
